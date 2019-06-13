@@ -1,0 +1,5 @@
+.env
+bus
+db
+node_modules
+tape.txt
