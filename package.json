@@ -8,6 +8,6 @@
   "dependencies": {
     "bitquery": "^0.3.136",
     "mongodb": "^3.2.7",
-    "neonplanaria": "0.0.10"
+    "neonplanaria": "0.0.46"
   }
 }
